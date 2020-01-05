@@ -1,0 +1,2 @@
+pefile>=2017.8.1
+yara-python>=3.8.0
